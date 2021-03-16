@@ -2,3 +2,5 @@ This is a test file created in order to test git on vs code.
 
 
 Trying to make some changes
+
+Making some changes on the git file after cloning the same from remote repository
